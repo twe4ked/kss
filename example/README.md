@@ -6,3 +6,5 @@ Run it with:
 
     bundle install
     bundle exec ruby app.rb
+
+Here is an [example on GitHub pages](http://kneath.github.com/kss).
